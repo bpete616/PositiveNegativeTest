@@ -3,3 +3,14 @@ DS_Store/
 package-lock.json
 package.json
 wdio.conf.js 
+
+menu.page.js
+cart.page.js
+cart.test.js
+menu.test.js
+uvu.test.js 
+searchadmission.page.js
+uvubasepage.js
+pos.test.js
+serviceprograms.js
+.env
