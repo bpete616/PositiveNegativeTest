@@ -19,7 +19,8 @@ In this fast paced program I learned about testing techniques, functional and no
 ## 🔸My Work 
 
 - [Test Case: Postman API Validation](swapi.jpg)
-- [Test Case: Invalid Credentials](canvas.jpg)
+- [Test Case: Invalid Credentials](![canvas](https://github.com/user-attachments/assets/36f7c732-6ddd-4173-a496-1977d410bd84)
+)
 - Facebook Bug: [Bug Ticket: Emoji Misplacement](emoji.jpg)
 - Airport Parking Bug: [Bug Ticket: Parking Validation Error](parkingbug.jpg)
   ## 🔸Projects
