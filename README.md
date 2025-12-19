@@ -1,4 +1,4 @@
-# 🏁 Portfolio
+# 🏁 Portfolio - Becca Peterson
 ## 🔹 About Me
 I value myself as someone who is reliable and proactive. I can confidently say I am always up for a challenge, I know mentally and physically it will continue to improve my ability to work under pressure, stay positive, and overall impact my growth.
 
