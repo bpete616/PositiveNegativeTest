@@ -20,9 +20,8 @@ In this fast paced program I learned about testing techniques, functional and no
 
 - [Test Case: Postman API Validation](https://raw.githubusercontent.com/bpete616/FirstRepo/main/swapi.jpg)
 - [Test Case: Invalid Credentials](https://raw.githubusercontent.com/bpete616/FirstRepo/main/canvas.jpg)
-)
-- Facebook Bug: [Bug Ticket: Emoji Misplacement](https://raw.githubusercontent.com/bpete616/FirstRepo/main/emoji.jpg)
-- Airport Parking Bug: [Bug Ticket: Parking Validation Error](https://raw.githubusercontent.com/bpete616/FirstRepo/main/parkingbug.jpg)
+- [Facebook Bug Ticket: Emoji Misplacement](https://raw.githubusercontent.com/bpete616/FirstRepo/main/emoji.jpg)
+- [Airport Bug Ticket: Parking Validation Error](https://raw.githubusercontent.com/bpete616/FirstRepo/main/parkingbug.jpg)
   ## 🔸Projects
   Tools that were used to help build the automated tests
   - Visual Studio Code
