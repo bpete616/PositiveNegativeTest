@@ -8,7 +8,7 @@ Through my expereience, this is granted me the skills of being attentive to deta
 ##🔹 Courses
 Mountainland Technical College - *Software Quality Assurance*
 
-In this fast paced program I learned about testing techniques in Manual and Automated testing and how to apply these testing techniques to testing tools like JavaScript, WebDriverIO, Chrome DevTools and Jira to build and execute Manual and Automated Tests.
+In this fast paced program I learned about testing techniques, functional and non-functional in Manual and Automated testing and how to apply these testing techniques to testing tools like JavaScript, WebDriverIO, Chrome DevTools and Jira to build and execute Manual and Automated Tests.
 ## 🔹 Skills
 - JavaScript (beginner)
 - Postman for API and HTTP validation
@@ -16,14 +16,32 @@ In this fast paced program I learned about testing techniques in Manual and Auto
 - Chrome DevTools
 - Documentation of Bug tickets and Test Cases
 - GitHub commands for pushing, creating, removing, and updating files
-## My Work 
+## 🔸My Work 
+
 - [Test Case: Postman API Validation](Swapi)
 - [Test Case: Invalid Credentials](Canvas)
-- [Bug Ticket: Emoji Misplacement](facebook)
-- [Bug Ticket: Parking Validation Error](parking)
-## Projects 
+- Facebook Bug: [Bug Ticket: Emoji Misplacement](facebook)
+- Airport Parking Bug: [Bug Ticket: Parking Validation Error](parking)
+  ## 🔸Projects
+  Tools that were used to help build the automated tests
+  - Visual Studio Code
+  - JavaScript
+  - WebDriverIO
+  - Chrome DevTools
+  ### Integration and Positive Testing: Utah Valley Univeristy
+  *GitHub: https://github.com/bpete616/UVU-testing.git*
+
+   Created loop conditions for positive and integration testing to validate components were functional, and displayed expected content using loop conditions.
+  ### Positive and Negative Test - Valid and Invalid credentials
+  *Github: https://github.com/bpete616/PositiveNegativeTest.git*
+
+  Created loops condition tests to execute multiple valid credentials with correct password and incorrect password to verfiy Sauce Demo system responds accuractely to negative and positive credentials.
+  ### Sauce Demo automated test on "Your Cart" and "Menu Hamburger menu"
+  *GitHub: https://github.com/bpete616/multiple-tests.git*
+
+  Automated these two components to validate the functionality and quality using postive testing.
 
 ## Career Goals
-I’m seeking a QA Tester or QA Analyst role where I can apply my manual testing skills, continue growing in automation, and contribute to building high quality software. 
+I am seeking a QA Tester or QA Analyst role where I can apply my manual testing skills, continue to grow and build in automation, and contribute to building high quality software. 
 
 
