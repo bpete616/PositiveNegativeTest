@@ -18,10 +18,10 @@ In this fast paced program I learned about testing techniques, functional and no
 - GitHub commands for pushing, creating, removing, and updating files
 ## 🔸My Work 
 
-- [Test Case: Postman API Validation](https://raw.githubusercontent.com/bpete616/FirstRepo/main/swapi.jpg)
-- [Test Case: Invalid Credentials](https://raw.githubusercontent.com/bpete616/FirstRepo/main/canvas.jpg)
-- [Facebook Bug Ticket: Emoji Misplacement](https://raw.githubusercontent.com/bpete616/FirstRepo/main/emoji.jpg)
-- [Airport Bug Ticket: Parking Validation Error](https://raw.githubusercontent.com/bpete616/FirstRepo/main/parkingbug.jpg)
+- Test Case: Postman API Validation [View Image](https://raw.githubusercontent.com/bpete616/FirstRepo/main/swapi.jpg)
+- Test Case: Invalid Credentials [View Image](https://raw.githubusercontent.com/bpete616/FirstRepo/main/canvas.jpg)
+- Facebook Bug Ticket: Emoji Misplacement [View Image](https://raw.githubusercontent.com/bpete616/FirstRepo/main/emoji.jpg)
+- Airport Bug Ticket: Parking Validation Error [View Image](https://raw.githubusercontent.com/bpete616/FirstRepo/main/parkingbug.jpg)
   ## 🔸Projects
   Tools that were used to help build the automated tests
   - Visual Studio Code
